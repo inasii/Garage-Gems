@@ -69,9 +69,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Project-SE
 Members working on this group project 
 
-Christine Irene Silalahi (christinesilalahi)
-Inas Luluah Asri (inasii)
-Rogate Agustina Hutapea (Rogate25)
-Vania Nathania Azrai (VaniaNathania)
-Wanda Ayu Hafidzoh (Wandayu03)
+- **Christine Irene Silalahi (christinesilalahi)
+- **Inas Luluah Asri (inasii)
+- **Rogate Agustina Hutapea (Rogate25)
+- **Vania Nathania Azrai (VaniaNathania)
+- **Wanda Ayu Hafidzoh (Wandayu03)
 >>>>>>> 7fad3bf83124f76b198886de3f5ec9c1b6487faa
