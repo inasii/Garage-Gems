@@ -1,3 +1,13 @@
+# Project-SE
+Members working on this group project 
+
+- Christine Irene Silalahi (christinesilalahi)
+- Inas Luluah Asri (inasii)
+- Rogate Agustina Hutapea (Rogate25)
+- Vania Nathania Azrai (VaniaNathania)
+- Wanda Ayu Hafidzoh (Wandayu03)
+
+
 <<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
@@ -66,12 +76,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# Project-SE
-Members working on this group project 
-
-- Christine Irene Silalahi (christinesilalahi)
-- Inas Luluah Asri (inasii)
-- Rogate Agustina Hutapea (Rogate25)
-- Vania Nathania Azrai (VaniaNathania)
-- Wanda Ayu Hafidzoh (Wandayu03)
 >>>>>>> 7fad3bf83124f76b198886de3f5ec9c1b6487faa
